@@ -1,4 +1,4 @@
-const notas = [85, 90, 78, 92, 88];
+const notas = [7, 6.5, 8, 4, 9];
 
 function calcularPromedio(notas) {
     let suma = 0;
